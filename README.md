@@ -19,7 +19,7 @@ Debería tener el siguiente aspecto:
 
 Una vez guardado en un archivo con las carpetas conetnedoras de los zips, deberás darle permisos de ejecución:
 ```bash
-sudo chmod +x corrector.sh
+sudo chmod +x script.sh
 ```
 
 Después de haber otorgado los permisos necesarios, ejecuta el script:
