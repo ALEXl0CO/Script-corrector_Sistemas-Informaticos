@@ -29,7 +29,7 @@ bash script.sh
 
 
 ## Funcionamiento
-Este script tiene distintos menús en función de la cantidad de carpetas que hayan en el directorio con zips. Si hay más de una carpeta, se mostrará un menú con las carpetas disponibles para corregir. Si solo hay una carpeta, te mostrará sus respectivas opciones.
+Este script tiene distintos menús en función de la cantidad de carpetas que hayan en el directorio. Si hay más de una carpeta, se mostrará un menú con las carpetas disponibles para corregir. Si solo hay una carpeta, te mostrará el menú con sus respectivas opciones.
 
 Una vez ejecutado el script, no habrá problema en ejecutar de nuevo dicho script con el directorio de Respuestas ya que este está configurado para no aparecer.
 
