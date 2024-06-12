@@ -14,7 +14,8 @@ Este script de bash formatea los ejercicios de scripts de la asignatura de Siste
 Para poder usar este script primero deberás descargar dicho script. Después, deberás guardarlo en un directorio junto con las carpetas contenedoras de los zips.
 
 Debería tener el siguiente aspecto:
-IMAGEN
+
+![Captura desde 2024-06-12 17-44-31](https://github.com/ALEXl0CO/Script-corrector_Sistemas-Informaticos/assets/153745206/d0ed3612-d7cf-402e-942e-d3e130ad47a2)
 
 Una vez guardado en un archivo con las carpetas conetnedoras de los zips, deberás darle permisos de ejecución:
 ```bash
@@ -34,11 +35,13 @@ Una vez ejecutado el script, no habrá problema en ejecutar de nuevo dicho scrip
 
 **¡IMPORTANTE**: Cada vez que se ejecute dicho script, sobreescibirá los archivos de la carpeta Respuestas. Por lo que si quieres conservar los resultados de una ejecución anterior, deberás moverlos a otra carpeta.
 
-### Menú para distintas carpetas
-IMAGEN
-
 ### Menú para una sola carpeta
-IMAGEN
+
+![Captura desde 2024-06-12 17-48-15](https://github.com/ALEXl0CO/Script-corrector_Sistemas-Informaticos/assets/153745206/b55639ce-8eb2-4c7e-bfa3-9997adf55d87)
+
+### Menú para distintas carpetas
+
+![Captura desde 2024-06-12 17-48-43](https://github.com/ALEXl0CO/Script-corrector_Sistemas-Informaticos/assets/153745206/ee764ad1-f605-4dd3-a9a1-d4f050aed3a5)
 
 
 ## Resultado
@@ -127,7 +130,10 @@ Una vez instalada, para configurar la extensión deberás seguir los siguientes 
 1. Haz click izquierdo en el icono de la extensión.
 2. Clica en "ADVANCED OPTIONS".
 3. Dale permisos a la extensión para que pueda leer archivos locales, para ello clica en "ALLOW ACCESS" de la opción "File Access". Una vez dentro busca esta opción y actívala.
-   IMAGEN
+
+   ![Captura desde 2024-06-12 18-39-14](https://github.com/ALEXl0CO/Script-corrector_Sistemas-Informaticos/assets/153745206/b5a90dc2-72f0-4e2d-b2da-c9b65caa5997)
+
 4. Finalmente, abre la configuración de la extensión de nuevo y en la barra de navegación de la parte superior clica en "Settings".
 5. En el apartado de "Theme" pon estas opciones:
-   IMAGEN
+
+   ![Captura desde 2024-06-12 18-42-00](https://github.com/ALEXl0CO/Script-corrector_Sistemas-Informaticos/assets/153745206/0797f8c4-6f9e-439f-90ad-3a89245bd972)
